@@ -1,0 +1,21 @@
+{
+  "db":{
+    "scheme": "cproto",
+    "hostname": "127.0.0.1",
+    "port": "6534",
+    "path": "diplom_chat_gost"
+  },
+  "http": {
+    "port": ":3354"
+  },
+  "jwt" : {
+    "domain": "diplom-chat-gost.web-gen.ru",
+    "key" : "diplom-chat-gost"
+  },
+  "email" : {
+    "username": "username",
+    "password": "password",
+    "host": "host",
+    "port": 465
+  }
+}
